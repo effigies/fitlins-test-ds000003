@@ -1,0 +1,3 @@
+[submodule "sourcedata"]
+	path = sourcedata
+	url = https://github.com/OpenNeuroDatasets/ds000003.git
